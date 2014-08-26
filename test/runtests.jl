@@ -1,4 +1,4 @@
-using Multicombination
+using Multicombinations
 using Base.Test
 
 # multichoose
